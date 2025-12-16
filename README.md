@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-**<blockquote>“Between lines, the world quietly changes.”</blockquote>**
+_Between lines, the world quietly changes._
 
 <!--[![Years Badge](https://badges.pufler.dev/years/bolamsydhom)](https://badges.pufler.dev)-->
 <!-- [![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html) -->
