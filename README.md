@@ -15,19 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<i>Between lines, the world quietly changes.</i>
+</div>
 
 <div align="center">
-**_Between lines, the world quietly changes._**
-
 <!--[![Years Badge](https://badges.pufler.dev/years/bolamsydhom)](https://badges.pufler.dev)-->
 <!-- [![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html) -->
 <!--[![Repos Badge](https://badges.pufler.dev/repos/bolamsydhom)](https://badges.pufler.dev) -->
-<img src="https://komarev.com/ghpvc/?username=bolamsydhom&label=Profile%20views&color=0e75b6&style=flat" alt="bolamsydhom" />
+<img src="https://komarev.com/ghpvc/?username=bolamsydhom&label=Profile%20views&color=0a89fc&style=flat" alt="bolamsydhom" />
 </div>
 
 # Hi 👋, I'm [Bola](https://www.linkedin.com/in/bola-sydhom/)
 
-- <img src="https://github.com/bolamsydhom/bolamsydhom/blob/master/luciq_logo.jpeg" width="20" draggable="false"> I’m currently working at @ **<a href="https://luciq.ai/"> Luciq </a>** "Formally Instabug"
+- <img src="https://github.com/bolamsydhom/bolamsydhom/blob/master/luciq_logo.jpeg" width="20" draggable="false"> I’m currently working at @**<a href="https://luciq.ai/">Luciq </a>** "Formally Instabug"
 
 - 🌱 Where I worked before **Cegedim, Eva Pharma, Penta-b**
 
