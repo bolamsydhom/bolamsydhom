@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-_Between lines, the world quietly changes._
+**_Between lines, the world quietly changes._**
 
 <!--[![Years Badge](https://badges.pufler.dev/years/bolamsydhom)](https://badges.pufler.dev)-->
 <!-- [![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html) -->
@@ -27,7 +27,7 @@ _Between lines, the world quietly changes._
 
 # Hi 👋, I'm [Bola](https://www.linkedin.com/in/bola-sydhom/)
 
-- <img src="https://github.com/bolamsydhom/bolamsydhom/blob/master/luciq_logo.jpeg" width="20" draggable="false"> I’m currently working at **<a href="https://luciq.ai/"> @Luciq </a>** "Formally Instabug"
+- <img src="https://github.com/bolamsydhom/bolamsydhom/blob/master/luciq_logo.jpeg" width="20" draggable="false"> I’m currently working at @ **<a href="https://luciq.ai/"> Luciq </a>** "Formally Instabug"
 
 - 🌱 Where I worked before **Cegedim, Eva Pharma, Penta-b**
 
