@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[](https://github.com/bolamsydhom/bolamsydhom/assets/40190772/8f0accf5-b4a7-497f-98f2-638566b68b3b)
+![hero-gif](https://github.com/user-attachments/assets/fd15ac80-1cfd-4fc5-9bfb-cd1d34326236)
 
 <!--
 **bolamsydhom/bolamsydhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
