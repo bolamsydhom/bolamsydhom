@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm [Bola](https://www.linkedin.com/in/bola-sydhom/)
 
-- <img src="https://github.com/bolamsydhom/bolamsydhom/blob/master/luciq_logo.png" width="20" draggable="false"> I’m currently working at @**<a href="https://luciq.ai/">Luciq </a>** "Formally Instabug"
+- <img src="https://github.com/bolamsydhom/bolamsydhom/blob/main/luciq_logo.png" width="20" draggable="false"> I’m currently working at @**<a href="https://luciq.ai/">Luciq </a>** "Formally Instabug"
 
 - 🌱 Where I worked before **Cegedim, Eva Pharma, Penta-b**
 
